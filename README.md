@@ -5,3 +5,7 @@ Default mode:
 ![defaultmode](/Screenshots/18_11_2018.png)
 Bacteria mode:
 ![bacteriamode](/Screenshots/18_11_2018_bacteria.png)
+
+
+## Program only works on Windows
+What was I thinking?
